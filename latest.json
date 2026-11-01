@@ -1,0 +1,16 @@
+{
+  "schema": "forkit.ai-passport.release.v1",
+  "product": "AI Passport",
+  "version": "0.1.0-beta.2",
+  "channel": "beta",
+  "url": "https://github.com/Forkit-AI/ai-passport-releases/releases/download/v0.1.0-beta.2/ai-passport-install.sh",
+  "sha256": "478fd7b9508887114239e6945443f32606dba5b599fec798cb2fc4c5b6f628ef",
+  "size": 48772532,
+  "packageSha256": "f0d915ed5743682e1fd65131904c4de4a9f2e1494c88662b89e8a060a5bb7193",
+  "minimumMacOS": "13.5",
+  "arch": "arm64",
+  "publishedAt": "2026-10-31T12:47:50.090Z",
+  "keyId": "75c549bd609c6910",
+  "notes": "AI Passport Connect · Founding Beta 0.1.0-beta.2 (macOS): the app's new name, Recreate v2, live map v2, everything recorded is shown at install and turns on only in the app's own Mac window. Runs on your Mac only; no account. Not yet notarised by Apple.",
+  "signature": "I3rVp9EdR3TOrUgT4yrIJJxol8yELg4+wwf3Wq0sAm6o35KozwJaWZewrM6n5p9oIC1joLsvGTT2OV8MvpSMDA=="
+}
