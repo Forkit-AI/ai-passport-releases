@@ -1,0 +1,16 @@
+{
+  "schema": "forkit.ai-passport.release.v1",
+  "product": "AI Passport",
+  "version": "0.1.0",
+  "channel": "beta",
+  "url": "https://github.com/Forkit-AI/ai-passport-releases/releases/download/v0.1.0/ai-passport-install.sh",
+  "sha256": "ddf57bf1376dbac5824a1d4c740d60f332fb9bbfff2f1700c225b3b8397a48cc",
+  "size": 48909678,
+  "packageSha256": "e98cbd0c0d28be9d96ac04f66f2ddd98d2b907b876e17c0cc8163f9d5a7a12e7",
+  "minimumMacOS": "13.5",
+  "arch": "arm64",
+  "publishedAt": "2026-11-09T14:07:21.149Z",
+  "keyId": "75c549bd609c6910",
+  "notes": "Free Founding Beta. Use locally without an account; sign in optionally at www.forkit-ai.com to connect this Mac and choose what to sync.",
+  "signature": "aJNEKHRLyJqeTsmMiVKnYVwMJIrgRWCEViVRtykVULDx0CpLesiZX/OiWbT1NN2+wwpfpKm/VNO1TKrFJIQ8AQ=="
+}
